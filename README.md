@@ -14,11 +14,9 @@ This exploration makes use of MS-COCO's 2017 training image and caption pairs, w
 
 ## Fine-tuning
 
-We provide a [notebook](notebooks/CLIP_GPT_COCO.ipynb) which details our experimental setup and fine-tuning procedure and the following [video](https://youtu.be/LA3AC8gM6hw) description:
+We provide a [notebook](notebooks/CLIP_GPT_COCO.ipynb) which details our experimental setup and fine-tuning procedure as well as the following [video description](https://youtu.be/LA3AC8gM6hw).
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LA3AC8gM6hw/0.jpg)](https://youtu.be/LA3AC8gM6hw)
-
-Will be continuing to elaborate and iterate on the method as we continue.
+We will be continuing to elaborate and iterate on the method as we continue.
 
 
 #
