@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+braceexpand==0.1.7
+chardet==5.1.0
+datasets==2.13.0
+einops==0.6.1
+open_clip_torch
+torch==2.0.1+cu117
+torchvision==0.15.2+cu117
+transformers==4.30.2
+vector-quantize-pytorch
+webdataset==0.2.48
